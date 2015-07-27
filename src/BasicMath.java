@@ -11,6 +11,9 @@ class BasicMath
         return a - b;
     }
 
-    // TODO: multiply
+    public int mul(int a, int b)
+    {
+        return a * b;
+    }
 	// TODO: divide
 }
