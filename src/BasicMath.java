@@ -15,5 +15,8 @@ class BasicMath
     {
         return a * b;
     }
-	// TODO: divide
+    public int div(int a, int b)
+    {
+        return a / b;
+    }
 }
